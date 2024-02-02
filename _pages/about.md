@@ -10,7 +10,7 @@ redirect_from:
 
 👋 Hello, my name is Jason and i am currently an Undergraduate student at Miami Dade College.
 
-📚 My passion is in Machine Learning Models for defense purposes.
+📚 My passion is in Machine Learning Models for cyber defense purposes.
 
 🦉 My current goal is to have the opportunity to be apart of researching my passions in depth.
 
