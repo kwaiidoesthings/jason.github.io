@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hello, my name is Jason and i am currently an Undergraduate student at Miami Dade College.
+👋 I am currently an Undergraduate student at Miami Dade College.
 
 📚 My passion is in Machine Learning Models for cyber defense purposes.
 
