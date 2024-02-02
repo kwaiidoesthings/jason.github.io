@@ -16,7 +16,7 @@ redirect_from:
 
 # Experience
 
-## Encryptor 
+## Encryption Tool
 A [program](https://github.com/kwaiidoesthings/encryptor) that encrypts and decrypts a message. Shuffles key everytime its restarted for maximum protection. 
 
 ## Software Engineering Intern 
