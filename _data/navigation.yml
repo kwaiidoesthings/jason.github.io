@@ -15,7 +15,7 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /teaching/
 
   - title: "Book Blog"
     url: /books/   
