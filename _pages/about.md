@@ -26,6 +26,6 @@ During my time at capitol, a miami based steel company, I utilized python, javas
 
 ### eSports Divison Lead
 #### Miami Dade College
-At MDC eSports, I was brought into a brand new system and given creative freedom. At the end of my time there I turned a brand new program into a household name in the eSports scene of Florida. Bringing in 12 members to compete in the highest level of competition along with project management where events were hosted with up to 30 attendees. Generated thousands in revenue.
+At MDC eSports, I was brought into a brand new system and given creative freedom. At the end of my time there I turned a brand new program into a household name in the eSports scene of Florida. Bringing in 12 members to compete in the highest level of competition along with project management where events were hosted with up to 30 attendees. Generating thousands in revenue.
 
 ## [Read more](https://kwaiidoesthings.github.io/jason.github.io//cv/)
