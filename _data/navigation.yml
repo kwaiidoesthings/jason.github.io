@@ -15,10 +15,10 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /teaching/
+    url: /posts/
 
   - title: "Book Blog"
-    url: /books/   
+    url: /teaching/   
     
  # - title: "Guide"
  #   url: /markdown/
