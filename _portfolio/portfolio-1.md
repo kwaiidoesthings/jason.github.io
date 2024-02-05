@@ -1,3 +1,3 @@
 ### GitHub
 
-Check out (My Github)[https://github.com/kwaiidoesthings]
+Check out [My Github](https://github.com/kwaiidoesthings)
