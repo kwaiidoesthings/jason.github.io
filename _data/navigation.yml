@@ -17,8 +17,8 @@ main:
  # - title: "Blog Posts"
  #   url: /posts/
 
-  - title: "Book Blog"
-    url: /teaching/   
+#  - title: "Book Blog"
+#    url: /teaching/   
     
  # - title: "Guide"
  #   url: /markdown/
