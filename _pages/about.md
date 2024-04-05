@@ -10,11 +10,14 @@ redirect_from:
 
 👋 I am currently an Undergraduate student at Miami Dade College.
 
-📚 My passion is in Machine Learning Models for cyber defense purposes.
+📚 My passion is in Machine Learning Models for business digitalization.
 
 🦉 My current goal is to have the opportunity to be apart of researching my passions in depth.
 
 # Experience
+
+## EssayAmplifier
+EssayAmplifier.com is a subscription based website leveraging the power of the OpenAI API to revolutionize the essay writing experience for students. It simplifies and enhances the essay writing process and empowers students to realize their academic potential.
 
 ## Encryption Tool
 A [program](https://github.com/kwaiidoesthings/encryptor) that encrypts and decrypts a message. Shuffles key everytime its restarted for maximum protection. 
